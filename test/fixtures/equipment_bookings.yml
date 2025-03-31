@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  equipment: MyString
+  quantity: 1
+  time_slot: MyString
+
+two:
+  user: two
+  equipment: MyString
+  quantity: 1
+  time_slot: MyString
