@@ -1,11 +1,11 @@
 # README
+I have done implemented sign up / sign out and log in/log out in ruby on rails and yet to implement api for the form.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Things to run this application:
 
-Things you may want to cover:
+* Ruby version - 3.4.1
 
-* Ruby version
+* rails version - 8.0.2
 
 * System dependencies
 
@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+
